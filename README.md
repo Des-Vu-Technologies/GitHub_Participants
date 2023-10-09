@@ -10,6 +10,17 @@ This is the list of all the participants participating in hacktoberfest 2023 org
 
 4.Create a pull request (PR) to contribute your name.
 
-<!--- your name like this format --->
-1 .Hari om Gupta
-<!--- 
+---
+
+<!-- Add your name below this line as in the below format -->
+
+<!-- 1. Your NAME -->
+1.Hari Om Gupta
+
+<!-- Add your name above this line -->
+
+---
+
+Thank you for participating in Hacktoberfest 2023 and contributing to open source projects. Let's make this event a success together!
+
+Happy hacking!
